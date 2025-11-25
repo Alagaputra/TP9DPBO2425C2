@@ -50,8 +50,6 @@ Struktur utama:
 Admin melakukan operasi CRUD pada kedua entity.
 ```
 
----
-
 # 3. 🔃 Sequence Diagram — Tambah Pembalap
 ```
 Admin -> Browser: Klik "Tambah Pembalap"
@@ -78,7 +76,6 @@ index.php -> Browser: tampilkan daftar pembalap
 Form POST harus punya field: nama, tim, negara, poinMusim, jumlahMenang.
 ```
 
----
 
 # 4. ❌ Sequence Diagram — Hapus Sirkuit
 ```
@@ -104,7 +101,6 @@ Delete gagal kalau:
 - query delete salah nama kolom/tabel
 ```
 
----
 
 # 5. 🔁 Activity Diagram — Tambah Data Umum
 ```
@@ -154,7 +150,10 @@ views/
  - form.html
 ```
 
----
 
-#Dokumentasi
+# Dokumentasi
+
+https://github.com/user-attachments/assets/e4747e30-f43e-4e20-b913-f0e56b84f44a
+
+
 
